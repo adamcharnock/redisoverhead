@@ -1,0 +1,681 @@
+Downloading/unpacking pyevolve (from -r requirements.pip (line 1))
+  Getting page http://pypi.python.org/simple/pyevolve
+  URLs to search for versions for pyevolve (from -r requirements.pip (line 1)):
+  * http://pypi.python.org/simple/pyevolve/
+  Getting page http://pypi.python.org/simple/pyevolve/
+  Getting page http://pyevolve.sourceforge.net
+  Analyzing links from page http://pypi.python.org/simple/Pyevolve/
+    Skipping link http://pypi.python.org/packages/2.5/P/Pyevolve/Pyevolve-0.5-py2.5.egg#md5=f2699b4d8c1c405cde508665dcef868c (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .egg
+    Skipping link http://pypi.python.org/packages/2.6/P/Pyevolve/Pyevolve-0.5.win32-py2.6.exe#md5=4fc482ea273afbc40f8318a8da91940c (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .exe
+    Skipping link http://pypi.python.org/packages/2.5/P/Pyevolve/Pyevolve-0.5.win32-py2.5.exe#md5=804d779a37083b9b41b9f6da7497e0fb (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .exe
+    Skipping link http://pypi.python.org/packages/2.6/P/Pyevolve/Pyevolve-0.5-py2.6.egg#md5=c61800c35ed35f8c1ec136da8c092727 (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .egg
+    Skipping link http://pyevolve.sourceforge.net (from http://pypi.python.org/simple/Pyevolve/); not a file
+  Analyzing links from page http://pyevolve.sourceforge.net
+    Skipping link http://pyevolve.sourceforge.net/_static/default_patch.css (from http://pyevolve.sourceforge.net); unknown archive format: .css
+    Skipping link http://pyevolve.sourceforge.net/_static/pygments.css (from http://pyevolve.sourceforge.net); unknown archive format: .css
+    Skipping link http://pyevolve.sourceforge.net/genindex.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/search.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/\%22%22 (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/modindex.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net#welcome-to-pyevolve-documentation (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/wordpress (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graphs-screens (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/latex_0_5.pdf (from http://pyevolve.sourceforge.net); unknown archive format: .pdf
+    Skipping link http://pyevolve.sourceforge.net#contents (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/intro.html#id1 (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#downloads (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#windows (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#linux (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#examples-and-source-code (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#installation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#ga-features (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#genetic-algorithms-literature (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#books (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#sites (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#glossary-concepts (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#first-example (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#final-source-code (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#the-interactive-mode (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#inspecting-the-population (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#the-exposed-modules-and-objects (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#extending-pyevolve (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-representation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-initializator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-crossover (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#snippets (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-two-mutators-at-same-time (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-one-allele-to-all-list-chromosome-elements-genes (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#changing-the-selection-method (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#doing-the-same-evolution-on-with-random-seed (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#writing-the-evolution-statistics-to-a-csv-file (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#use-the-http-post-to-dump-ga-statistics (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-two-or-more-evaluation-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/modules.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#general-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#general-constants (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#selection-methods-constants-selectors (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#scaling-scheme-constants-scaling (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#population-constants-gpopulation-gpopulation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-binary-string-defaults-g1dbinarystring-g1dbinarystring (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-list-chromosome-constants-g1dlist-g1dlist (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-list-chromosome-constants-g2dlist-g2dlist (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#ga-engine-constants-gsimplega-gsimplega (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#db-adapters-constants-dbadapters (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_util.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_interaction.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_dbadapters.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_functionslot.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_statistics.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#genetic-algorithm-core-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_gsimplega.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_gpopulation.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#genetic-operators-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_mutators.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_crossovers.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_initializators.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_selectors.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_scaling.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#chromosomes-representation-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_genomebase.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_allele.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g1dbinarystring.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g1dlist.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g2dlist.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graphical-plotting-tool-options (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#usage (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#usage-examples (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graph-types-and-screenshots (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#error-bars-graph-raw-scores-1-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#error-bars-graph-fitness-scores-2-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#max-min-avg-std-dev-graph-raw-scores-3-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#max-min-avg-graph-fitness-scores-4-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#min-max-difference-graph-raw-and-fitness-scores-5-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#compare-best-raw-score-of-two-or-more-evolutions-6-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#compare-best-fitness-score-of-two-or-more-evolutions-7-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#heat-map-of-population-raw-score-distribution-8-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#heat-map-of-population-fitness-score-distribution-9-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-1-simple-example (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-2-real-numbers-gaussian-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-3-schaffer-f6-deceptive-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-4-using-sigma-truncation-scaling (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-5-step-callback-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-6-the-db-adapters (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-7-the-rastringin-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-8-the-gaussian-integer-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-9-the-2d-list-genome (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-10-the-1d-binary-string (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-11-the-use-of-alleles (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-12-the-travelling-salesman-problem-tsp (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-13-the-sphere-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-14-the-ackley-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-15-the-rosenbrock-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/faq.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/license.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/license.html#credits (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/contact.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/contact.html#donate (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net#index (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://del.icio.us/post?url=http://pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://digg.com/submit?url=http://pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://www.reddit.com/domain/pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); unknown archive format: .net
+    Skipping link http://pyevolve.sourceforge.net/_sources/index.txt (from http://pyevolve.sourceforge.net); unknown archive format: .txt
+    Skipping link http://sphinx.pocoo.org/ (from http://pyevolve.sourceforge.net); not a file
+  Could not find any downloads that satisfy the requirement pyevolve (from -r requirements.pip (line 1))
+No distributions at all found for pyevolve (from -r requirements.pip (line 1))
+Exception information:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/dist-packages/pip-0.6.3-py2.6.egg/pip/basecommand.py", line 115, in main
+    self.run(options, args)
+  File "/usr/local/lib/python2.6/dist-packages/pip-0.6.3-py2.6.egg/pip/commands/install.py", line 155, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/usr/local/lib/python2.6/dist-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 823, in install_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "/usr/local/lib/python2.6/dist-packages/pip-0.6.3-py2.6.egg/pip/index.py", line 117, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for pyevolve (from -r requirements.pip (line 1))
+------------------------------------------------------------
+/usr/local/bin/pip run on Sun Jul 25 12:19:41 2010
+Downloading/unpacking Pyevolve (from -r requirements.pip (line 1))
+  Getting page http://pypi.python.org/simple/Pyevolve
+  URLs to search for versions for Pyevolve (from -r requirements.pip (line 1)):
+  * http://pypi.python.org/simple/Pyevolve/
+  Getting page http://pyevolve.sourceforge.net
+  Analyzing links from page http://pypi.python.org/simple/Pyevolve/
+    Skipping link http://pypi.python.org/packages/2.5/P/Pyevolve/Pyevolve-0.5-py2.5.egg#md5=f2699b4d8c1c405cde508665dcef868c (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .egg
+    Skipping link http://pypi.python.org/packages/2.6/P/Pyevolve/Pyevolve-0.5.win32-py2.6.exe#md5=4fc482ea273afbc40f8318a8da91940c (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .exe
+    Skipping link http://pypi.python.org/packages/2.5/P/Pyevolve/Pyevolve-0.5.win32-py2.5.exe#md5=804d779a37083b9b41b9f6da7497e0fb (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .exe
+    Skipping link http://pypi.python.org/packages/2.6/P/Pyevolve/Pyevolve-0.5-py2.6.egg#md5=c61800c35ed35f8c1ec136da8c092727 (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .egg
+    Skipping link http://pyevolve.sourceforge.net (from http://pypi.python.org/simple/Pyevolve/); not a file
+  Analyzing links from page http://pyevolve.sourceforge.net
+    Skipping link http://pyevolve.sourceforge.net/_static/default_patch.css (from http://pyevolve.sourceforge.net); unknown archive format: .css
+    Skipping link http://pyevolve.sourceforge.net/_static/pygments.css (from http://pyevolve.sourceforge.net); unknown archive format: .css
+    Skipping link http://pyevolve.sourceforge.net/genindex.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/search.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/\%22%22 (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/modindex.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net#welcome-to-pyevolve-documentation (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/wordpress (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graphs-screens (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/latex_0_5.pdf (from http://pyevolve.sourceforge.net); unknown archive format: .pdf
+    Skipping link http://pyevolve.sourceforge.net#contents (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/intro.html#id1 (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#downloads (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#windows (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#linux (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#examples-and-source-code (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#installation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#ga-features (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#genetic-algorithms-literature (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#books (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#sites (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#glossary-concepts (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#first-example (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#final-source-code (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#the-interactive-mode (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#inspecting-the-population (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#the-exposed-modules-and-objects (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#extending-pyevolve (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-representation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-initializator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-crossover (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#snippets (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-two-mutators-at-same-time (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-one-allele-to-all-list-chromosome-elements-genes (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#changing-the-selection-method (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#doing-the-same-evolution-on-with-random-seed (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#writing-the-evolution-statistics-to-a-csv-file (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#use-the-http-post-to-dump-ga-statistics (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-two-or-more-evaluation-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/modules.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#general-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#general-constants (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#selection-methods-constants-selectors (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#scaling-scheme-constants-scaling (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#population-constants-gpopulation-gpopulation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-binary-string-defaults-g1dbinarystring-g1dbinarystring (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-list-chromosome-constants-g1dlist-g1dlist (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-list-chromosome-constants-g2dlist-g2dlist (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#ga-engine-constants-gsimplega-gsimplega (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#db-adapters-constants-dbadapters (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_util.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_interaction.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_dbadapters.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_functionslot.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_statistics.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#genetic-algorithm-core-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_gsimplega.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_gpopulation.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#genetic-operators-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_mutators.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_crossovers.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_initializators.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_selectors.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_scaling.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#chromosomes-representation-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_genomebase.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_allele.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g1dbinarystring.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g1dlist.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g2dlist.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graphical-plotting-tool-options (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#usage (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#usage-examples (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graph-types-and-screenshots (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#error-bars-graph-raw-scores-1-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#error-bars-graph-fitness-scores-2-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#max-min-avg-std-dev-graph-raw-scores-3-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#max-min-avg-graph-fitness-scores-4-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#min-max-difference-graph-raw-and-fitness-scores-5-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#compare-best-raw-score-of-two-or-more-evolutions-6-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#compare-best-fitness-score-of-two-or-more-evolutions-7-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#heat-map-of-population-raw-score-distribution-8-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#heat-map-of-population-fitness-score-distribution-9-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-1-simple-example (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-2-real-numbers-gaussian-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-3-schaffer-f6-deceptive-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-4-using-sigma-truncation-scaling (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-5-step-callback-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-6-the-db-adapters (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-7-the-rastringin-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-8-the-gaussian-integer-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-9-the-2d-list-genome (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-10-the-1d-binary-string (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-11-the-use-of-alleles (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-12-the-travelling-salesman-problem-tsp (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-13-the-sphere-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-14-the-ackley-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-15-the-rosenbrock-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/faq.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/license.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/license.html#credits (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/contact.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/contact.html#donate (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net#index (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://del.icio.us/post?url=http://pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://digg.com/submit?url=http://pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://www.reddit.com/domain/pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); unknown archive format: .net
+    Skipping link http://pyevolve.sourceforge.net/_sources/index.txt (from http://pyevolve.sourceforge.net); unknown archive format: .txt
+    Skipping link http://sphinx.pocoo.org/ (from http://pyevolve.sourceforge.net); not a file
+  Could not find any downloads that satisfy the requirement Pyevolve (from -r requirements.pip (line 1))
+No distributions at all found for Pyevolve (from -r requirements.pip (line 1))
+Exception information:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/dist-packages/pip-0.6.3-py2.6.egg/pip/basecommand.py", line 115, in main
+    self.run(options, args)
+  File "/usr/local/lib/python2.6/dist-packages/pip-0.6.3-py2.6.egg/pip/commands/install.py", line 155, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/usr/local/lib/python2.6/dist-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 823, in install_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "/usr/local/lib/python2.6/dist-packages/pip-0.6.3-py2.6.egg/pip/index.py", line 117, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for Pyevolve (from -r requirements.pip (line 1))
+------------------------------------------------------------
+/home/adam/redisoverhead/env/bin/pip run on Sun Jul 25 12:21:01 2010
+Downloading/unpacking Pyevolve (from -r requirements.pip (line 1))
+  Getting page http://pypi.python.org/simple/Pyevolve
+  URLs to search for versions for Pyevolve (from -r requirements.pip (line 1)):
+  * http://pypi.python.org/simple/Pyevolve/
+  Getting page http://pyevolve.sourceforge.net
+  Analyzing links from page http://pypi.python.org/simple/Pyevolve/
+    Skipping link http://pypi.python.org/packages/2.5/P/Pyevolve/Pyevolve-0.5-py2.5.egg#md5=f2699b4d8c1c405cde508665dcef868c (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .egg
+    Skipping link http://pypi.python.org/packages/2.6/P/Pyevolve/Pyevolve-0.5.win32-py2.6.exe#md5=4fc482ea273afbc40f8318a8da91940c (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .exe
+    Skipping link http://pypi.python.org/packages/2.5/P/Pyevolve/Pyevolve-0.5.win32-py2.5.exe#md5=804d779a37083b9b41b9f6da7497e0fb (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .exe
+    Skipping link http://pypi.python.org/packages/2.6/P/Pyevolve/Pyevolve-0.5-py2.6.egg#md5=c61800c35ed35f8c1ec136da8c092727 (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .egg
+    Skipping link http://pyevolve.sourceforge.net (from http://pypi.python.org/simple/Pyevolve/); not a file
+  Analyzing links from page http://pyevolve.sourceforge.net
+    Skipping link http://pyevolve.sourceforge.net/_static/default_patch.css (from http://pyevolve.sourceforge.net); unknown archive format: .css
+    Skipping link http://pyevolve.sourceforge.net/_static/pygments.css (from http://pyevolve.sourceforge.net); unknown archive format: .css
+    Skipping link http://pyevolve.sourceforge.net/genindex.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/search.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/\%22%22 (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/modindex.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net#welcome-to-pyevolve-documentation (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/wordpress (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graphs-screens (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/latex_0_5.pdf (from http://pyevolve.sourceforge.net); unknown archive format: .pdf
+    Skipping link http://pyevolve.sourceforge.net#contents (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/intro.html#id1 (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#downloads (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#windows (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#linux (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#examples-and-source-code (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#installation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#ga-features (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#genetic-algorithms-literature (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#books (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#sites (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#glossary-concepts (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#first-example (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#final-source-code (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#the-interactive-mode (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#inspecting-the-population (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#the-exposed-modules-and-objects (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#extending-pyevolve (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-representation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-initializator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-crossover (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#snippets (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-two-mutators-at-same-time (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-one-allele-to-all-list-chromosome-elements-genes (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#changing-the-selection-method (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#doing-the-same-evolution-on-with-random-seed (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#writing-the-evolution-statistics-to-a-csv-file (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#use-the-http-post-to-dump-ga-statistics (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-two-or-more-evaluation-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/modules.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#general-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#general-constants (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#selection-methods-constants-selectors (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#scaling-scheme-constants-scaling (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#population-constants-gpopulation-gpopulation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-binary-string-defaults-g1dbinarystring-g1dbinarystring (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-list-chromosome-constants-g1dlist-g1dlist (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-list-chromosome-constants-g2dlist-g2dlist (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#ga-engine-constants-gsimplega-gsimplega (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#db-adapters-constants-dbadapters (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_util.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_interaction.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_dbadapters.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_functionslot.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_statistics.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#genetic-algorithm-core-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_gsimplega.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_gpopulation.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#genetic-operators-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_mutators.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_crossovers.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_initializators.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_selectors.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_scaling.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#chromosomes-representation-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_genomebase.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_allele.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g1dbinarystring.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g1dlist.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g2dlist.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graphical-plotting-tool-options (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#usage (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#usage-examples (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graph-types-and-screenshots (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#error-bars-graph-raw-scores-1-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#error-bars-graph-fitness-scores-2-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#max-min-avg-std-dev-graph-raw-scores-3-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#max-min-avg-graph-fitness-scores-4-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#min-max-difference-graph-raw-and-fitness-scores-5-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#compare-best-raw-score-of-two-or-more-evolutions-6-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#compare-best-fitness-score-of-two-or-more-evolutions-7-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#heat-map-of-population-raw-score-distribution-8-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#heat-map-of-population-fitness-score-distribution-9-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-1-simple-example (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-2-real-numbers-gaussian-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-3-schaffer-f6-deceptive-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-4-using-sigma-truncation-scaling (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-5-step-callback-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-6-the-db-adapters (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-7-the-rastringin-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-8-the-gaussian-integer-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-9-the-2d-list-genome (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-10-the-1d-binary-string (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-11-the-use-of-alleles (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-12-the-travelling-salesman-problem-tsp (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-13-the-sphere-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-14-the-ackley-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-15-the-rosenbrock-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/faq.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/license.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/license.html#credits (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/contact.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/contact.html#donate (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net#index (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://del.icio.us/post?url=http://pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://digg.com/submit?url=http://pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://www.reddit.com/domain/pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); unknown archive format: .net
+    Skipping link http://pyevolve.sourceforge.net/_sources/index.txt (from http://pyevolve.sourceforge.net); unknown archive format: .txt
+    Skipping link http://sphinx.pocoo.org/ (from http://pyevolve.sourceforge.net); not a file
+  Could not find any downloads that satisfy the requirement Pyevolve (from -r requirements.pip (line 1))
+No distributions at all found for Pyevolve (from -r requirements.pip (line 1))
+Exception information:
+Traceback (most recent call last):
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/basecommand.py", line 115, in main
+    self.run(options, args)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/commands/install.py", line 155, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 823, in install_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/index.py", line 117, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for Pyevolve (from -r requirements.pip (line 1))
+------------------------------------------------------------
+/home/adam/redisoverhead/env/bin/pip run on Sun Jul 25 12:24:54 2010
+Downloading/unpacking Pyevolve (from -r requirements.pip (line 1))
+  Getting page http://pypi.python.org/simple/Pyevolve
+  URLs to search for versions for Pyevolve (from -r requirements.pip (line 1)):
+  * http://pypi.python.org/simple/Pyevolve/
+  Getting page http://pyevolve.sourceforge.net
+  Analyzing links from page http://pypi.python.org/simple/Pyevolve/
+    Skipping link http://pypi.python.org/packages/2.5/P/Pyevolve/Pyevolve-0.5-py2.5.egg#md5=f2699b4d8c1c405cde508665dcef868c (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .egg
+    Skipping link http://pypi.python.org/packages/2.6/P/Pyevolve/Pyevolve-0.5.win32-py2.6.exe#md5=4fc482ea273afbc40f8318a8da91940c (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .exe
+    Skipping link http://pypi.python.org/packages/2.5/P/Pyevolve/Pyevolve-0.5.win32-py2.5.exe#md5=804d779a37083b9b41b9f6da7497e0fb (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .exe
+    Skipping link http://pypi.python.org/packages/2.6/P/Pyevolve/Pyevolve-0.5-py2.6.egg#md5=c61800c35ed35f8c1ec136da8c092727 (from http://pypi.python.org/simple/Pyevolve/); unknown archive format: .egg
+    Skipping link http://pyevolve.sourceforge.net (from http://pypi.python.org/simple/Pyevolve/); not a file
+  Analyzing links from page http://pyevolve.sourceforge.net
+    Skipping link http://pyevolve.sourceforge.net/_static/default_patch.css (from http://pyevolve.sourceforge.net); unknown archive format: .css
+    Skipping link http://pyevolve.sourceforge.net/_static/pygments.css (from http://pyevolve.sourceforge.net); unknown archive format: .css
+    Skipping link http://pyevolve.sourceforge.net/genindex.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/search.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/\%22%22 (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/modindex.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net#welcome-to-pyevolve-documentation (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/wordpress (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graphs-screens (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/latex_0_5.pdf (from http://pyevolve.sourceforge.net); unknown archive format: .pdf
+    Skipping link http://pyevolve.sourceforge.net#contents (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://pyevolve.sourceforge.net/intro.html#id1 (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#downloads (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#windows (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#linux (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#examples-and-source-code (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#installation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#ga-features (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#genetic-algorithms-literature (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#books (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#sites (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/intro.html#glossary-concepts (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#first-example (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#final-source-code (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#the-interactive-mode (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#inspecting-the-population (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#the-exposed-modules-and-objects (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#extending-pyevolve (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-representation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-initializator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#creating-the-crossover (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#snippets (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-two-mutators-at-same-time (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-one-allele-to-all-list-chromosome-elements-genes (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#changing-the-selection-method (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#doing-the-same-evolution-on-with-random-seed (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#writing-the-evolution-statistics-to-a-csv-file (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#use-the-http-post-to-dump-ga-statistics (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/getstarted.html#using-two-or-more-evaluation-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/modules.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#general-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#general-constants (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#selection-methods-constants-selectors (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#scaling-scheme-constants-scaling (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#population-constants-gpopulation-gpopulation (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-binary-string-defaults-g1dbinarystring-g1dbinarystring (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-list-chromosome-constants-g1dlist-g1dlist (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#d-list-chromosome-constants-g2dlist-g2dlist (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#ga-engine-constants-gsimplega-gsimplega (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_const.html#db-adapters-constants-dbadapters (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_util.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_interaction.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_dbadapters.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_functionslot.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_statistics.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#genetic-algorithm-core-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_gsimplega.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_gpopulation.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#genetic-operators-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_mutators.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_crossovers.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_initializators.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_selectors.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_scaling.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_pyevolve.html#chromosomes-representation-modules (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_genomebase.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_allele.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g1dbinarystring.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g1dlist.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/module_g2dlist.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graphical-plotting-tool-options (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#usage (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#usage-examples (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#graph-types-and-screenshots (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#error-bars-graph-raw-scores-1-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#error-bars-graph-fitness-scores-2-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#max-min-avg-std-dev-graph-raw-scores-3-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#max-min-avg-graph-fitness-scores-4-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#min-max-difference-graph-raw-and-fitness-scores-5-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#compare-best-raw-score-of-two-or-more-evolutions-6-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#compare-best-fitness-score-of-two-or-more-evolutions-7-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#heat-map-of-population-raw-score-distribution-8-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/graphs.html#heat-map-of-population-fitness-score-distribution-9-option (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-1-simple-example (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-2-real-numbers-gaussian-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-3-schaffer-f6-deceptive-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-4-using-sigma-truncation-scaling (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-5-step-callback-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-6-the-db-adapters (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-7-the-rastringin-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-8-the-gaussian-integer-mutator (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-9-the-2d-list-genome (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-10-the-1d-binary-string (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-11-the-use-of-alleles (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-12-the-travelling-salesman-problem-tsp (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-13-the-sphere-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-14-the-ackley-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/examples.html#example-15-the-rosenbrock-function (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/faq.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/license.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/license.html#credits (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/contact.html (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net/contact.html#donate (from http://pyevolve.sourceforge.net); unknown archive format: .html
+    Skipping link http://pyevolve.sourceforge.net#index (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://del.icio.us/post?url=http://pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://digg.com/submit?url=http://pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); not a file
+    Skipping link http://www.reddit.com/domain/pyevolve.sourceforge.net (from http://pyevolve.sourceforge.net); unknown archive format: .net
+    Skipping link http://pyevolve.sourceforge.net/_sources/index.txt (from http://pyevolve.sourceforge.net); unknown archive format: .txt
+    Skipping link http://sphinx.pocoo.org/ (from http://pyevolve.sourceforge.net); not a file
+  Could not find any downloads that satisfy the requirement Pyevolve (from -r requirements.pip (line 1))
+No distributions at all found for Pyevolve (from -r requirements.pip (line 1))
+Exception information:
+Traceback (most recent call last):
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/basecommand.py", line 115, in main
+    self.run(options, args)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/commands/install.py", line 155, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 823, in install_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/index.py", line 117, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for Pyevolve (from -r requirements.pip (line 1))
+------------------------------------------------------------
+/home/adam/redisoverhead/env/bin/pip run on Sun Jul 25 12:31:52 2010
+Downloading/unpacking http://downloads.sourceforge.net/project/pyevolve/Pyevolve/0.5/Pyevolve-0.5-py2.6.egg?use_mirror=ignum&ts=1280057447#egg=pyevolve (from -r requirements.pip (line 1))
+  Downloading from URL http://downloads.sourceforge.net/project/pyevolve/Pyevolve/0.5/Pyevolve-0.5-py2.6.egg?use_mirror=ignum&ts=1280057447#egg=pyevolve
+  Running setup.py egg_info for package from http://downloads.sourceforge.net/project/pyevolve/Pyevolve/0.5/Pyevolve-0.5-py2.6.egg?use_mirror=ignum&ts=1280057447#egg=pyevolve
+    Traceback (most recent call last):
+      File "<string>", line 14, in <module>
+    IOError: [Errno 2] No such file or directory: '/tmp/pip-Rg_f_q-build/setup.py'
+    Complete output from command python setup.py egg_info:
+    Traceback (most recent call last):
+
+  File "<string>", line 14, in <module>
+
+IOError: [Errno 2] No such file or directory: '/tmp/pip-Rg_f_q-build/setup.py'
+
+----------------------------------------
+Command python setup.py egg_info failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/basecommand.py", line 115, in main
+    self.run(options, args)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/commands/install.py", line 155, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 854, in install_files
+    req_to_install.run_egg_info()
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 205, in run_egg_info
+    command_desc='python setup.py egg_info')
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/__init__.py", line 207, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command python setup.py egg_info failed with error code 1
+------------------------------------------------------------
+/home/adam/redisoverhead/env/bin/pip run on Sun Jul 25 12:33:32 2010
+Downloading/unpacking http://pypi.python.org/packages/2.6/P/Pyevolve/Pyevolve-0.5-py2.6.egg#egg=pyevolve (from -r requirements.pip (line 1))
+  Downloading from URL http://pypi.python.org/packages/2.6/P/Pyevolve/Pyevolve-0.5-py2.6.egg#egg=pyevolve
+  Running setup.py egg_info for package from http://pypi.python.org/packages/2.6/P/Pyevolve/Pyevolve-0.5-py2.6.egg#egg=pyevolve
+    Traceback (most recent call last):
+      File "<string>", line 14, in <module>
+    IOError: [Errno 2] No such file or directory: '/tmp/pip-y9BM3F-build/setup.py'
+    Complete output from command python setup.py egg_info:
+    Traceback (most recent call last):
+
+  File "<string>", line 14, in <module>
+
+IOError: [Errno 2] No such file or directory: '/tmp/pip-y9BM3F-build/setup.py'
+
+----------------------------------------
+Command python setup.py egg_info failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/basecommand.py", line 115, in main
+    self.run(options, args)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/commands/install.py", line 155, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 854, in install_files
+    req_to_install.run_egg_info()
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 205, in run_egg_info
+    command_desc='python setup.py egg_info')
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/__init__.py", line 207, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command python setup.py egg_info failed with error code 1
+------------------------------------------------------------
+/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/runner.py run on Sun Jul 25 12:55:51 2010
+Downloading/unpacking redis-py
+  Getting page http://pypi.python.org/simple/redis-py
+  Could not fetch URL http://pypi.python.org/simple/redis-py: HTTP Error 404: Not Found (redis-py does not have any releases)
+  Will skip URL http://pypi.python.org/simple/redis-py when looking for download links for redis-py
+  Getting page http://pypi.python.org/simple/
+  URLs to search for versions for redis-py:
+  * http://pypi.python.org/simple/redis-py/
+  Getting page http://pypi.python.org/simple/redis-py/
+  Could not fetch URL http://pypi.python.org/simple/redis-py/: HTTP Error 404: Not Found (redis-py does not have any releases)
+  Will skip URL http://pypi.python.org/simple/redis-py/ when looking for download links for redis-py
+  Could not find any downloads that satisfy the requirement redis-py
+No distributions at all found for redis-py
+Exception information:
+Traceback (most recent call last):
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/basecommand.py", line 115, in main
+    self.run(options, args)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/commands/install.py", line 155, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 823, in install_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/index.py", line 117, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for redis-py
+------------------------------------------------------------
+/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/runner.py run on Sun Jul 25 12:56:12 2010
+Downloading/unpacking redispy
+  Getting page http://pypi.python.org/simple/redispy
+  Could not fetch URL http://pypi.python.org/simple/redispy: HTTP Error 404: Not Found (redispy does not have any releases)
+  Will skip URL http://pypi.python.org/simple/redispy when looking for download links for redispy
+  Getting page http://pypi.python.org/simple/
+  URLs to search for versions for redispy:
+  * http://pypi.python.org/simple/redispy/
+  Getting page http://pypi.python.org/simple/redispy/
+  Could not fetch URL http://pypi.python.org/simple/redispy/: HTTP Error 404: Not Found (redispy does not have any releases)
+  Will skip URL http://pypi.python.org/simple/redispy/ when looking for download links for redispy
+  Could not find any downloads that satisfy the requirement redispy
+No distributions at all found for redispy
+Exception information:
+Traceback (most recent call last):
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/basecommand.py", line 115, in main
+    self.run(options, args)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/commands/install.py", line 155, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 823, in install_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "/home/adam/redisoverhead/env/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/index.py", line 117, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for redispy
